@@ -3,11 +3,8 @@
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=232F3E"/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-#F7DF1E
+
+
 
 <!--
 **ARProxy/ARProxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
