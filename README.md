@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-green?style=for-the-badge&logo=eclipseche&logoColor=white"/>
-<img src="https://img.shields.io/badge/black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellijidea-EE4C2C?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-3DAD4B?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-0672CB?style=for-the-badge&logo=mysql&logoColor=white"/>
