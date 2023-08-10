@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=232F3E"/><img src="https://img.shields.io/badge/amazonaws-black?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-green?style=flat&logoColor=232F3E"/><img src="https://img.shields.io/badge/amazonaws-black?style=flat&logo=amazonaws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=3776AB"/>
 
