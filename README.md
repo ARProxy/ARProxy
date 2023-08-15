@@ -2,6 +2,52 @@
 
 <h3 align="center">Focus on your goal. Don't look in any direction but ahead.</h3>
 
+<h4 align="center"> 안녕하세요. BackEnd_developer 권동휘입니다.😀</h4>
+
+<br />
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind css&logoColor=white"/>
+</div>
+
+<br />
+
+<h3 align="center"> 📄Study Now📄 </h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+</div>
+
+<br />
+
+<h3 align="center";> 🔧Tools🔧</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+</div>
+
+<br />
+
+<h3 align="center"> 📊Github Stats📊 </h3>
+
+<div  align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=future9061&show_icons=true&hide=stars,prs,issues,contribs">
+</div>
+
+<div  align="center">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical">
+</div>
+
 
 <img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-EF3939?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-green?style=for-the-badge&logo=eclipseche&logoColor=white"/>  <img src="https://img.shields.io/badge/amazonaws-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/intellijidea-EE4C2C?style=for-the-badge&logo=intellijidea&logoColor=white"/><br>
