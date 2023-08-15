@@ -22,6 +22,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3178C6?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 
