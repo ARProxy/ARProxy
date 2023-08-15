@@ -41,7 +41,15 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARProxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> 📊Github Stats📊 </h3>
+
+<div  align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ARProxy&show_icons=true&hide=stars,prs,issues,contribs">
+</div>
+
+<div  align="center">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARProxy&layout=donut-vertical">
+</div>
 
 <!--
 **ARProxy/ARProxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
