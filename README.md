@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/java-green?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonaws-black?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-0672CB?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind css&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle-000000?style=flat-square&logo=oracle&logoColor=white"/>
 </div>
 
 <br />
