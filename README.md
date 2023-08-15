@@ -38,17 +38,6 @@
 
 <br />
 
-<h3 align="center"> 📊Github Stats📊 </h3>
-
-<div  align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=future9061&show_icons=true&hide=stars,prs,issues,contribs">
-</div>
-
-<div  align="center">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical">
-</div>
-
-
 <img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white"/>  <img src="https://img.shields.io/badge/html5-EF3939?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-green?style=for-the-badge&logo=eclipseche&logoColor=white"/>  <img src="https://img.shields.io/badge/amazonaws-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/intellijidea-EE4C2C?style=for-the-badge&logo=intellijidea&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/javascript-3DAD4B?style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-0672CB?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
