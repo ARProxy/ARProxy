@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Mirae🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Donghui🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40&)
 
 <h3 align="center">Focus on your goal. Don't look in any direction but ahead.</h3>
 
