@@ -1,40 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Donghui🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40&)
 
-<h3 align="center">Focus on your goal. Don't look in any direction but ahead.</h3>
-
-<h4 align="center"> 안녕하세요. BackEnd_developer 권동휘입니다.😀</h4>
+<h2 align="center"> 안녕하세요. BackEnd_developer 권동휘입니다.😀</h2>
 
 <br />
 
-<div align="center">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-green?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonaws-black?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-0672CB?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracle-000000?style=flat-square&logo=oracle&logoColor=white"/>
-</div>
 
-<br />
+|Part|Stacks|
+|------|---|
+| <div align="center">Language</div> | <div align="center"><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-CC0000.svg?&style=for-the-badge&logo=Java&logoColor=white"/></div>|
+| <div align="center">Database</div> | <div align="center"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/> </div> |
+| <div align="center">Library & Framework</div> | <div align="center"><img alt="Spring" src ="https://img.shields.io/badge/Spring-3776AB.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-13C100.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=Spring Security&logoColor=white"/></div>|
+| <div align="center">Tool</div> | <div align="center"><a href = "https://github.com/ARProxy/"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://hocci-0222.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <img alt="intellijidea" src ="https://img.shields.io/badge/intellijidea-3776AB.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> <img alt="visualstudiocode" src ="https://img.shields.io/badge/VScode-5C2D91.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="eclipseide" src ="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/> </div>|
 
-<h3 align="center"> 📄Study Now📄 </h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/spring-3178C6?style=flat&logo=spring&logoColor=white"/>
-</div>
-
-<br />
-
-<h3 align="center";> 🔧Tools🔧</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipse-green?style=flat-square&logo=eclipseche&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-0098FF?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-EE4C2C?style=flat-square&logo=intellijidea&logoColor=white"/>
-</div>
-
-<br />
+</br>
 
 <h3 align="center"> 📊Github Stats📊 </h3>
 
