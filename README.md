@@ -45,3 +45,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARProxy&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
 
 </div>
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/ARProxy/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARProxy&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="65%" />
+  </a>
+  <a href="https://solved.ac/tnqlsdld1/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqlsdld1" width="30%" />
+  </a>
+</div>
+
+
