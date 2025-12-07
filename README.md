@@ -44,7 +44,7 @@ Java/Spring Boot 기반 서버 개발부터 iOS/Android SDK 개발까지 확장�
 <td width="50%" valign="top">
 
 #### 🏢 SEEU-ID
-**eKYC 솔루션** · SECERN AI · 2023~현재
+**eKYC 솔루션** · SECERN AI · 2024.04 ~ 현재
 
 해외 금융사 대상 신원 확인 API 서버
 
@@ -66,9 +66,9 @@ Java/Spring Boot 기반 서버 개발부터 iOS/Android SDK 개발까지 확장�
 **성과**
 - iOS/Android 인앱 결제 시스템 구축
 - Gale-Shapley 안정 매칭 알고리즘 설계
-- BM25 + Qdrant 벡터 유사도 매칭
+- 가치관 + Qdrant 벡터 유사도 매칭
 
-**기술**: Java, Spring Boot, Redis, SSE, Qdrant
+**기술**: Java, Spring Boot, MySQL, Redis, SSE, Qdrant
 
 🔗 [puzzly.site](https://puzzly.site)
 
@@ -86,7 +86,7 @@ Java/Spring Boot 기반 서버 개발부터 iOS/Android SDK 개발까지 확장�
 - 비트마스킹 기반 다중 권한 설계
 - @Version 낙관적 락 + Redis 동시성 처리
 
-**기술**: Kotlin, Spring Boot, Redis
+**기술**: Kotlin, Spring Boot, MySQL, Redis
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@ Java/Spring Boot 기반 서버 개발부터 iOS/Android SDK 개발까지 확장�
 - Terraform IaC로 12개 AWS 리소스 관리
 - DMS 기반 무중단 계정 마이그레이션
 
-**기술**: Java, Spring Boot, Terraform, AWS DMS
+**기술**: Java, Spring Boot, Terraform, AWS
 
 </td>
 </tr>
