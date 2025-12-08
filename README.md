@@ -1,128 +1,34 @@
-<h1 align="center">동휘 (Donghwi)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=9BBC0F&center=true&vCenter=true&width=500&lines=%3E+BACK-END+DEVELOPER;%3E+2%EB%85%84%EC%B0%A8+%40+SECERN+AI;%3E+Piece+%EC%95%B1+500%2B+%EC%9C%A0%EC%A0%80+%EC%9A%B4%EC%98%81%EC%A4%91" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/EXP-2%20YEARS-9BBC0F?style=flat-square&labelColor=0f380f" />
-  <img src="https://img.shields.io/badge/CLASS-백엔드-9BBC0F?style=flat-square&labelColor=0f380f" />
-  <img src="https://img.shields.io/badge/GUILD-개발-9BBC0F?style=flat-square&labelColor=0f380f" />
-</p>
+[![Blog](https://img.shields.io/badge/❤️_Blog-hocci--0222.tistory.com-FF5722?style=flat-square)](https://hocci-0222.tistory.com)
+[![Email](https://img.shields.io/badge/✉️_Email-kwon.donghwi22%40gmail.com-03A9F4?style=flat-square)](mailto:kwon.donghwi22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-donghwi-0A66C2?style=flat-square)](https://www.linkedin.com/in/arproxy/)
 
-### 소개
+👋 Hi there! I'm **backend developer** building eKYC solutions with Java & Spring Boot. 🚀  
+I design scalable APIs and also handle **AWS infrastructure** (EC2, ECS, RDS, Terraform).  
+Sometimes I build frontend with **React & Next.js** for dashboards and web apps. 💻
 
-국내외 금융사 대상 **eKYC 솔루션**을 개발하는 백엔드 개발자입니다.
+Currently at **SECERN AI**, serving authentication APIs to financial institutions worldwide.  
+Also running **Piece** dating app with 500+ users. 💕
 
-Java/Spring Boot 기반 서버 개발부터 iOS/Android SDK 개발까지 확장하며,  
-**문제를 발견하고 해결하는 과정**에서 성장하고 있습니다.
+### 💪 Skills
 
-### 경력
+**Platforms & Languages**
 
-| 기간 | 회사 | 역할 |
-|:-----|:-----|:-----|
-| 2024.04 ~ 현재 | **SECERN AI** | Backend Developer |
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**주요 업무**
-- 국내외 금융사 대상 eKYC API 서버 개발 및 운영
-- 여권 NFC 리딩 SDK 개발 (iOS Swift / Android Kotlin)
-- 외국인등록증 OCR 정확도 개선 (87% → 96%)
-- 라이브니스 웹앱 개발 (Next.js + MediaPipe)
+**Database**
 
-### 기술 스택
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-| 분류 | 기술 |
-|:-----|:-----|
-| **Backend** | Java 17, Spring Boot 3.x, JPA, QueryDSL |
-| **Language** | Kotlin, Python, TypeScript |
-| **Database** | PostgreSQL, MySQL, Redis |
-| **Infra** | AWS (EC2, RDS, S3, CloudFront), Docker, Terraform |
-| **Mobile** | Swift (iOS), Kotlin (Android) |
+**Infra & Tools**
 
-### 📂 프로젝트
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏢 SEEU-ID
-**eKYC 솔루션** · SECERN AI · 2024.04 ~ 현재
-
-해외 금융사 대상 신원 확인 API 서버
-
-**성과**
-- API 응답시간 **40% 단축** (AOP 기반 병목 분석)
-- 외국인등록증 OCR **87% → 96%** 정확도
-- 여권 NFC SDK iOS/Android 단독 개발
-
-**기술**: Java, Spring Boot, PostgreSQL, Python, OpenCV
-
-</td>
-<td width="50%" valign="top">
-
-#### 💕 Piece
-**가치관 소개팅 앱** · 사이드 프로젝트 · 2025.11 ~ 현재
-
-운영 중인 소개팅 서비스
-
-**성과**
-- iOS/Android 인앱 결제 시스템 구축
-- Gale-Shapley 안정 매칭 알고리즘 설계
-- 가치관 + Qdrant 벡터 유사도 매칭
-
-**기술**: Java, Spring Boot, MySQL, Redis, SSE, Qdrant
-
-🔗 [puzzly.site](https://puzzly.site)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏠 Zipple
-**부동산 중개인 커뮤니티** · 2025.01
-
-사용자-중개인(대표, 소속)-생활 전문가 매칭 플랫폼
-
-**담당**
-- 비트마스킹 기반 다중 권한 설계
-- @Version 낙관적 락 + Redis 동시성 처리
-
-**기술**: Kotlin, Spring Boot, MySQL, Redis
-
-</td>
-<td width="50%" valign="top">
-
-#### 👴 Un:Retired
-**시니어 인강 플랫폼** · 2025.06
-
-은퇴자의 노하우를 인강으로 공유하는 서비스
-
-**담당**
-- Terraform IaC로 12개 AWS 리소스 관리
-- DMS 기반 무중단 계정 마이그레이션
-
-**기술**: Java, Spring Boot, Terraform, AWS
-
-</td>
-</tr>
-</table>
-
-### 문제 해결 사례
-
-| 문제 | 해결 | 결과 |
-|:-----|:-----|:-----|
-| 해외 VPN 환경 병목 파악 불가 | AOP 기반 구간별 응답시간 자동 기록 | 응답시간 **40% 단축** |
-| 외국인등록증 OCR 정확도 부족 | ROI 추출 + 필드별 전처리 파이프라인 | **87% → 96%** |
-| 모바일 개발자 부재 | AI 도구 활용 + Clean Architecture 설계 | iOS/Android SDK 단독 개발 |
-| AWS 계정 마이그레이션 | Terraform Import + DMS CDC + Blue-Green | **67개 리소스 무중단 이전** |
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARProxy&background=0f380f&ring=9bbc0f&fire=9bbc0f&currStreakLabel=9bbc0f&sideLabels=9bbc0f&currStreakNum=9bbc0f&sideNums=9bbc0f&dates=306230&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
-  <sub>© 2024 Donghwi. All rights reserved.</sub>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
