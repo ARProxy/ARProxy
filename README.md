@@ -2,14 +2,31 @@
 [![Email](https://img.shields.io/badge/✉️_Email-kwon.donghwi22%40gmail.com-03A9F4?style=flat-square)](mailto:kwon.donghwi22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-donghwi-0A66C2?style=flat-square)](https://www.linkedin.com/in/arproxy/)
 
-👋 Hi there! I'm **backend developer** building eKYC solutions with Java & Spring Boot. 🚀  
-I design scalable APIs and also handle **AWS infrastructure** (EC2, ECS, RDS, Terraform).  
-Sometimes I build frontend with **React & Next.js** for dashboards and web apps. 💻
+## 안녕하세요, 백엔드 개발자입니다 👋
 
-Currently at **SECERN AI**, serving authentication APIs to financial institutions worldwide.  
-Also running **Piece** dating app with 500+ users. 💕
+**SECERN AI**에서 글로벌 금융기관 대상 eKYC 솔루션을 개발하고 있습니다.
 
-### 💪 Skills
+### 하고 있는 일
+- 중계 API 로그, 매트릭 기능 고도화
+- OCR 모델 전처리, 모델 서빙, 후처리
+- 쿼리 튜닝으로 레이턴시 개선
+
+### 관심 있는 일
+- iOS/Android 여권 NFC SDK 개발
+- 인프라 아키텍처 설계
+- CloudWatch -> Datadog 마이그레이션 진행하면서 성능 비교 분석
+
+### 주의 깊게 학습하는 키워드
+- JVM, GC
+- Kubernetes
+- Kafka
+- Log & Metric
+- 벡터 DB
+
+### 사이드 프로젝트
+[**Piece**](https://github.com/Piece-Puzzly) - 가치관 기반 매칭 데이팅 앱 운영 중
+
+### 💪 스킬
 
 **Platforms & Languages**
 
