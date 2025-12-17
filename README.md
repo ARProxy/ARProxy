@@ -7,21 +7,24 @@
 **SECERN AI**에서 글로벌 금융기관 대상 eKYC 솔루션을 개발하고 있습니다.
 
 ### 하고 있는 일
-- 중계 API 로그, 매트릭 기능 고도화
-- OCR 모델 전처리, 모델 서빙, 후처리
-- 쿼리 튜닝으로 레이턴시 개선
+eKYC 인증 솔루션 고도화
+- 라이브니스 서버 통합으로 관리 포인트 감소
+- AWS-IDC 하이브리드 환경 병목 분석 및 안정화
+- AOP 기반 모듈 사용 기록 및 파일 관리 시스템
+- 외국인등록증 OCR 정확도 88% → 96% 개선
+- Datadog Java/Python Agent 통합
 
-### 관심 있는 일
-- iOS/Android 여권 NFC SDK 개발
-- 인프라 아키텍처 설계
-- CloudWatch -> Datadog 마이그레이션 진행하면서 성능 비교 분석
+라이선스 관리 시스템 구축 및 사내 운영
+- ECS 분산 환경 스케줄링 동시성 제어
+- 복합 인덱스 설계를 통한 페이징 쿼리 최적화
+- JNI 기반 C++ 암호화 모듈 연동
+- CloudWatch/Grafana 로깅 아키텍처 설계
 
 ### 주의 깊게 학습하는 키워드
 - JVM, GC
-- Kubernetes
-- Kafka
-- Log & Metric
-- 벡터 DB
+- 운영체제
+- MySQL, Redis
+
 
 ### 사이드 프로젝트
 [**Piece**](https://github.com/Piece-Puzzly) - 가치관 기반 매칭 데이팅 앱 운영 중
