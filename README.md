@@ -29,7 +29,8 @@ eKYC 인증 솔루션
 - CloudWatch/Grafana 로깅 아키텍처 설계
 
 Vision AI 기반 지속인증형 화면정보 보호 솔루션
-- 삼성 전기 서버 및 인프라 구축
+- 삼성 전기 서버 및 인프라 구축(Azuru)
+- VLM, LLM 딥러닝 기획
 
 ### 주의 깊게 학습하는 키워드
 - JVM, GC
