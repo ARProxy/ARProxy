@@ -30,7 +30,7 @@ eKYC 인증 솔루션
 
 Vision AI 기반 지속인증형 화면정보 보호 솔루션
 - 삼성 전기 서버 및 인프라 구축(Azuru)
-  - 폐쇄망 VDI, VM, Citrix
+  - 폐쇄망 VDI, VM, Citrix, agent
   - proxy sql
 - FAQ 플랫폼 개발(서브 도메인 AWS 아키텍처 설계)
 
